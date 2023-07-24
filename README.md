@@ -1,1 +1,3 @@
 # leetdwm
+
+dwm script 
